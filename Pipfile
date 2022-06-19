@@ -7,6 +7,8 @@ name = "pypi"
 django = "*"
 python-decouple = "*"
 djangorestframework = "*"
+django-phonenumber-field = "*"
+django-phonenumbers = "*"
 
 [dev-packages]
 autopep8 = "*"
