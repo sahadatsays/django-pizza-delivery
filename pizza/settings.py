@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'authentications.apps.AuthenticationsConfig',
+    'orders.apps.OrdersConfig',
 
     # Thirdparty app
     'rest_framework',
